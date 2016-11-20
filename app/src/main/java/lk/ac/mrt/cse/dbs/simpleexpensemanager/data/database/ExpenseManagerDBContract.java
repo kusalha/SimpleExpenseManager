@@ -3,7 +3,7 @@ package lk.ac.mrt.cse.dbs.simpleexpensemanager.data.database;
 import android.provider.BaseColumns;
 
 /**
- * Created by Chamath on 11/18/2016.
+ * Created by Kusalha on 11/20/2016.
  */
 
 public final class ExpenseManagerDBContract {

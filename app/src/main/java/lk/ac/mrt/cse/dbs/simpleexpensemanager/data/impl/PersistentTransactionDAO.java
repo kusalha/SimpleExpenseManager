@@ -30,7 +30,7 @@ import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.ExpenseType;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.Transaction;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.database.ExpenseManagerDBContract.TransactionTable;
 /**
- * Created by Chamath on 11/18/2016.
+ * Created by Kusalha on 11/20/2016.
  */
 /**
  * This is an In-Memory implementation of TransactionDAO interface. This is not a persistent storage. All the

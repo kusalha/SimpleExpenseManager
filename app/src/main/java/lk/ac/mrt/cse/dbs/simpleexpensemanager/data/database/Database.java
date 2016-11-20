@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 
 /**
- * Created by Chamath on 11/18/2016.
+ * Created by Kusalha on 11/20/2016.
  */
 
 public class Database {

@@ -29,7 +29,7 @@ import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.Account;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.ExpenseType;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.database.ExpenseManagerDBContract.AccountTable;
 /**
- * Created by Chamath on 11/18/2016.
+ * Created by Kusalha on 11/20/2016.
  */
 
 /**

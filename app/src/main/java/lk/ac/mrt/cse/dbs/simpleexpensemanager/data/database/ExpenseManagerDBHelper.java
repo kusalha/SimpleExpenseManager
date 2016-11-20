@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.database.ExpenseManagerDBContract.AccountTable;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.database.ExpenseManagerDBContract.TransactionTable;
 /**
- * Created by Chamath on 11/18/2016.
+ * Created by Kusalha on 11/20/2016.
  */
 
 public class ExpenseManagerDBHelper extends SQLiteOpenHelper {
@@ -43,7 +43,7 @@ public class ExpenseManagerDBHelper extends SQLiteOpenHelper {
 
 
     public static final int DATABASE_VERSION = 10;
-    public static final String DATABASE_NAME = "ex.db";
+    public static final String DATABASE_NAME = "140331D.db";
 
     public ExpenseManagerDBHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
